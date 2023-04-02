@@ -1,2 +1,2 @@
 # kaggle
-notebook f my kaggle competition
+notebook of my kaggle competition
